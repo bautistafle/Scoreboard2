@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: #1B244A;
+    margin: 0;
+}
+
+
+h3{
+
+    color:white;
+    
+    
+}
+.container {
+
+    
+    background-color: #1B244A;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+#casa {
+
+    
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 0px;
+}
